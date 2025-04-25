@@ -1,1 +1,1 @@
-FROM mysterysd/wzmlx:latest
+FROM mysterysd/wzmlx:heroku
