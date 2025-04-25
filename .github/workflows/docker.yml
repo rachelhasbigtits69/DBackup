@@ -25,4 +25,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: elricariocco/wzmlbase2024:latest
+          tags: elricariocco/wzmlxheroku2025:latest
