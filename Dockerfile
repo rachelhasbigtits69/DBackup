@@ -1,1 +1,1 @@
-FROM mysterysd/wzmlx:heroku
+FROM holaflenain/stable-diffusion
