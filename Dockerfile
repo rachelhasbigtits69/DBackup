@@ -1,1 +1,1 @@
-FROM holaflenain/stable-diffusion
+FROM irisXDR/neo-wzml:latest
