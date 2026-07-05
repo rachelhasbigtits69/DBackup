@@ -1,1 +1,1 @@
-FROM irisXDR/neo-wzml:latest
+FROM irisxdr/neo-wzml
