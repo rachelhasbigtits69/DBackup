@@ -25,4 +25,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: elricariocco/stablediffusionwebui:latest
+          tags: istareatotherscode2/neo-wzml-base-image:july26
